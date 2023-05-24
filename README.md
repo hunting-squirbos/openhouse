@@ -14,5 +14,5 @@ An open source Discord-like messaging protocol
   - Blocked users automatically muted in voice calls
 - More robust DMs
   - Closing DMs prevents messages until reopened
-  - >10 users per group DM
+  - \>10 users per group DM
   - Basic moderation tools
